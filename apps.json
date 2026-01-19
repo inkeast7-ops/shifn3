@@ -1,0 +1,28 @@
+{
+  "为你推荐": [
+    {
+      "name": "微信",
+      "type": "社交通讯",
+      "icon": "💬",
+      "info": "连接你我他",
+      "url": "https://dldir1.qq.com/weixin/android/weixin8050.apk"
+    },
+    {
+      "name": "抖音",
+      "type": "短视频",
+      "icon": "🎵",
+      "info": "记录美好生活",
+      "url": "https://p3-dy-ipv6.byteimg.com/obj/lp-app-org/douyin_web_280101.apk"
+    }
+  ],
+  "排行榜": [
+    {
+      "name": "王者荣耀",
+      "type": "竞技游戏",
+      "icon": "⚔️",
+      "info": "5V5团队公平竞技",
+      "url": "https://example.com/pvp.apk"
+    }
+  ],
+  "类别": []
+}
