@@ -1,0 +1,28 @@
+{
+  "为你推荐": [
+    {
+      "name": "微信",
+      "type": "通讯",
+      "icon": "💬",
+      "info": "连接你我他",
+      "url": "https://dldir1.qq.com/weixin/android/weixin8050android2580_arm64.apk"
+    },
+    {
+      "name": "手机QQ",
+      "type": "通讯",
+      "icon": "🐧",
+      "info": "乐在沟通",
+      "url": "https://dldir1.qq.com/qqmi/shoujiqq/Android/qq_9.0.90_64.apk"
+    }
+  ],
+  "排行榜": [
+    {
+      "name": "支付宝",
+      "type": "生活",
+      "icon": "💳",
+      "info": "支付、理财、生活",
+      "url": "https://t.alipayobjects.com/L1/71/100/and/alipay_wap_main.apk"
+    }
+  ],
+  "类别": []
+}
